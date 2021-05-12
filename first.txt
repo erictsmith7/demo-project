@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 #"make a change to first.txt"
-#"Second Change
+
+=======
+>>>>>>> parent of d039343... new
